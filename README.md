@@ -17,6 +17,10 @@ Welcome to my Tableau Dashboard Showcase! This repository contains two interacti
 <img width="900" alt="Netflix" src="https://github.com/user-attachments/assets/5d7b2b4c-b58e-4580-a709-528de885a85c">
 
 
+
+
+
+
 2.**Video Game Sales Analysis Dashboard**
 
 -> *Overview*: A deep dive into global video game sales, regional preferences, and genre popularity.
@@ -29,6 +33,8 @@ Welcome to my Tableau Dashboard Showcase! This repository contains two interacti
 -> *Preview:*
 
 <img width="850" alt="Video Game Sales Analysis" src="https://github.com/user-attachments/assets/4aedbfb7-c000-4e64-b0bf-cdb7f2c7f4bd">
+
+
 
 
 
